@@ -1,4 +1,4 @@
-# parseregex README
+# vscode extension parse regex
 
 Have you ever looked at a regular expression and found it difficult to understand? Have you ever wished that the programmers before you (or you, yourself, in the past) had taken the time to write a comment describing what the regular expression was accomplished? Well, wish no more!
 
