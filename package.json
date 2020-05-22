@@ -1,6 +1,7 @@
 {
-  "name": "parseregex",
-  "displayName": "parseRegex",
+  "name": "vscode_extension_parseregex",
+  "displayName": "vscode_extension_parseregex",
+  "repository": "https://github.com/AmyShackles/vscode_extension_parseregex",
   "description": "Add human-readable English descriptions of regular expressions as code comments",
   "version": "0.0.1",
   "engines": {
