@@ -28,3 +28,13 @@ None as of yet, it's early days
 
 - There appears to be a bug where the \$ anchor is incorrectly added as a match item and treated as an anchor -- need to investigate
 - Anything that's listed on [the original program's README](https://github.com/AmyShackles/parse_regex/blob/master/README.md) as still to do
+
+## How to Use
+
+- Clone repo
+- yarn install dependencies
+- Hit F5 to open a window with the extension loaded
+- Select a file that contains a regular expression
+- Select the text that includes regular expression
+- Hit CMD + Shift + P to open command pallet
+- Select Extension ParseRegex: Parse Regex
