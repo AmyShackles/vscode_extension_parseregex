@@ -16,7 +16,9 @@ For example if there is an image subfolder under your extension project workspac
 
 ## Requirements
 
-I do not believe there are dependencies, but we shall see.
+This repo now makes use of git submodules!
+
+In order to clone this project, you should use `git clone --recursive https://github.com/AmyShackles/vscode_extension_parseregex`
 
 ## Extension Settings
 
