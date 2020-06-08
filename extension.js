@@ -1,5 +1,5 @@
 const vscode = require("vscode");
-const parseRegex = require("./parse_regex/index.js");
+const { parseRegex } = require("./parse_regex/components/parseRegex.js");
 
 /**
  * @param {vscode.ExtensionContext} context
